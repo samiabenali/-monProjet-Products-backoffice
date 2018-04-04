@@ -1,8 +1,8 @@
-#Guide d'utilisation
+# Guide d'utilisation
 Ce projet utilise json-server
 https://github.com/typicode/json-server
 
-#Etapes de mise en route 
+# Etapes de mise en route 
 1- Installer json -server globally
 $ npm install -g json -server
 
